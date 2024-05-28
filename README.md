@@ -12,4 +12,4 @@ Meu nome é Yago mas aqui prefiro ser chamado como BLECKZINHO
   
   @yago_oblack
 
-![](https://media1.tenor.com/m/JcuSfsgy_IoAAAAC/goku-dragon-ball.gif)
+![](https://media1.tenor.com/m/4Ds8A3wAsYAAAAAC/goku-black.gif)
