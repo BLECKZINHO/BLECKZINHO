@@ -68,7 +68,7 @@ Atualmente focado em:
 ## 🔗 Meus Links
 
 - **GitHub:** https://github.com/BLECKZINHO  
-- **LinkedIn:** *adicione seu link aqui*  
+- **LinkedIn:** https://www.linkedin.com/in/yago-henrique-46330b330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 - **Alura:** *link do seu perfil quando quiser colocar*
 
 ---
