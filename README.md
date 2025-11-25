@@ -25,9 +25,9 @@
 ---
 
 ## ⚡ Onde me encontrar
-- 🔗 **LinkedIn:** (adicione o link aqui)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/yago-henrique-46330b330 
 - 📦 **GitHub:** github.com/BLECKZINHO
-- 📚 **Alura:** Em evolução constante
+- @ **Instagram:** https://www.instagram.com/yago_oblack/
 
 ---
 
