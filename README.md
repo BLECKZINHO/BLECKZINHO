@@ -42,8 +42,6 @@ Manipulação de DOM + localStorage.
 ✨ **Formulário com Validação**  
 Regex, UX e feedback visual.
 
-> Todos os projetos seguem o estilo **Tech Minimalista + Dark Dark**.
-
 ---
 
 ## ⚡ Onde me encontrar
