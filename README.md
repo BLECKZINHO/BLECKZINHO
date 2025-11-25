@@ -95,3 +95,4 @@ Projeto criado durante meus estudos de front-end.
 ---
 
 <p align="center">⚡ BLECKZINHO — Tech Minimalist • Dark Hacker ⚡</p>
+
