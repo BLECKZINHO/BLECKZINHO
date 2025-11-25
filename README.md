@@ -46,14 +46,6 @@ Regex, UX e feedback visual.
 
 ---
 
-## 📊 Minhas estatísticas do GitHub
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BLECKZINHO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BLECKZINHO&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## ⚡ Onde me encontrar
 - 🔗 **LinkedIn:** (adicione o link aqui)
 - 📦 **GitHub:** github.com/BLECKZINHO
