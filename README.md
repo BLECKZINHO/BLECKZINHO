@@ -10,8 +10,7 @@
 ## 🔥 Sobre mim
 - 🧠 18 anos, começando minha jornada na TI  
 - 💻 Interesse em **informática, computadores, lógica e programação**  
-- 🎯 Atualmente focado em: HTML, CSS e JavaScript  
-- 🪖 Cumprirei o serviço obrigatório do Exército — disciplina e rotina fazem parte de mim  
+- 🎯 Atualmente focado em: HTML, CSS e JavaScript   
 - ⚔️ Mentalidade minimalista e racional: “O lobo que sobe sozinho a montanha nunca volta o mesmo.”
 
 ---
@@ -22,25 +21,6 @@
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </p>
-
----
-
-## 📂 Meus Projetos
-
-✨ **Sistema de Login**  
-Interface minimalista, validação simples e código limpo.
-
-✨ **Calculadora Dark**  
-Funções básicas + estética hacker neon.
-
-✨ **Portfólio Inicial**  
-Primeiro teste de layout, tipografia e responsividade.
-
-✨ **To-Do List**  
-Manipulação de DOM + localStorage.
-
-✨ **Formulário com Validação**  
-Regex, UX e feedback visual.
 
 ---
 
