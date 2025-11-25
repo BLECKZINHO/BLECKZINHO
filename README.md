@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Estudante de Tecnologia | Futuro Desenvolvedor | Disciplina acima de tudo</strong><br>
-  Explorando programação com foco, minimalismo e mentalidade fria.
+  Explorando programação com foco, minimalismo e mentalidade.
 </p>
 
 ---
